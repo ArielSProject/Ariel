@@ -35,7 +35,7 @@
 * Unduh & Instal ImageMagick [`Klik Disini`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Aespi-Gaming/Ariel
+git clone https://github.com/ArielSProject/Ariel
 cd Ariel
 npm i
 npm update
@@ -52,7 +52,7 @@ pkg install nodejs
 pkg install ffmpeg
 pkg install imagemagick
 pkg install libwebp
-git clone https://github.com/Aespi-Gaming/Ariel
+git clone https://github.com/ArielSProject/Ariel
 cd Ariel
 npm install
 npm start
